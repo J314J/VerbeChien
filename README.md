@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🥖 VerbeChien
+# 🥖 VerbeChien 🐶
 
 **Entraîneur de conjugaison française**
 
